@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792884819574",
+    "project_id": "tanist-22f63",
+    "storage_bucket": "tanist-22f63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792884819574:android:ce9b6dc88c561b5ac21157",
+        "android_client_info": {
+          "package_name": "com.tanist.tanist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuOkrTfX9Dg0RmUQ9Q-Rfv7oQXqYKiyNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
