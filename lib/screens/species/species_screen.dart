@@ -16,16 +16,15 @@ class _SpeciesScreenState extends State<SpeciesScreen> {
     final response = await http.get(
       url,
       headers: {
-        'x-rapidapi-key': '9dbc27cb72msh2fa4c0e13dca833p153635jsnaaa9532b4a95',
+        'x-rapidapi-key': '',
         'x-rapidapi-host': 'plants10.p.rapidapi.com',
       },
     );
 
     if (response.statusCode == 200) {
       Map<String, dynamic> data = jsonDecode(response.body);
-      List<dynamic> speciesList =
-          List<dynamic>.from(data['scientific_name'] ?? []);
-      return speciesList.map((s) => s['plants'].toString()).toList();
+      List<dynamic> speciesList = List<dynamic>.from(data['plants'] ?? []);
+      return speciesList.map((s) => s['scientific_name'].toString()).toList();
     } else {
       throw Exception('Failed to load species');
     }
