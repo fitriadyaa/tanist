@@ -29,7 +29,7 @@ class _ChatScreenState extends State<ChatScreen> {
   final SpeechToText _speechToText = SpeechToText();
 
   Future<String> generateText(String userMessage) async {
-    const apiKey = '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';
+    const apiKey = '';
     const apiUrl = 'https://api.openai.com/v1/chat/completions';
 
     try {
