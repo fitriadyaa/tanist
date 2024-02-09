@@ -1,17 +1,24 @@
-# tanist
+# Tanist - Smart Plan Care with Chatbot
 
-A new Flutter project.
+Welcome! This project actually is for UAS Desain Kreatif Aplikasi dan Game
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Chatbot:**
+- **Article:**
+- **Plant Information:**
+  
+## Demo
+https://github.com/fitriadyaa/tanist/assets/56527375/d3490609-525c-4bcc-91a7-f638ca53677e
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Feedback and Support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# tanist-app
+Have feedback or need support? Please reach out to us at [me@fitriadyaa.my.id](mailto:me@fitriadyaa.my.id).
+
+## Support Me ☕
+
+If you find MyGithubUser helpful or just want to support my work, you can buy me a coffee! ☕
+
+<a href="https://www.buymeacoffee.com/fitriadyaa" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
